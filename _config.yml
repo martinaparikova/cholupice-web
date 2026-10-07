@@ -1,0 +1,23 @@
+title: "Sdružení pro rozvoj Cholupic"
+description: >-
+  Spolek, který se ve volném čase snaží, aby se v Cholupicích (Praha 12) žilo lépe.
+  Jednáme s obcí, radnicí, vlastníky pozemků a hledáme řešení aktuálních problémů.
+lang: cs
+email: sdruzeniprorozvojcholupic@gmail.com
+url: "" # doplňte, pokud web poběží na vlastní doméně, např. "https://www.zitcholupice.cz"
+baseurl: "" # ponechte prázdné, pokud web poběží na vlastní doméně nebo na https://<uzivatel>.github.io
+
+header_image: /assets/images/cropped-Ebibms7WAAIFx1A-2.jpeg
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Soubory/složky, které Jekyll nemá zpracovávat ani publikovat
+exclude:
+  - scripts
+  - .tmp
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules

@@ -1,0 +1,27 @@
+<header class="hero{% if page.url != '/' %} hero--compact{% endif %}">
+  <div class="hero__media" style="background-image: url('{{ site.header_image | relative_url }}');"></div>
+  <div class="hero__scrim"></div>
+  <div class="trail-stripe trail-stripe--top"></div>
+
+  <div class="hero__inner">
+    <p class="hero__eyebrow">Žít Cholupice</p>
+    <a class="hero__title" href="{{ '/' | relative_url }}">
+      <h1>{{ site.title }}</h1>
+    </a>
+
+    <nav class="nav" aria-label="Hlavní navigace">
+      <ul class="nav__list">
+        {% for item in site.data.nav.nav %}
+        <li>
+          <a href="{{ item.url | relative_url }}"
+             {% if page.url == item.url %}aria-current="page" class="is-active"{% endif %}>
+            {{ item.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+
+  <div class="trail-stripe"></div>
+</header>
