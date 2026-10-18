@@ -3,124 +3,28 @@ layout: page
 title: "Cholupický statek"
 permalink: /cholupicky-statek/
 nav_order: 4
+description: "Vývoj záměru v Cholupickém statku, stanoviska městské části a možnosti zapojení obyvatel."
 ---
 
-<ul><li><strong>Zbrojní průmyslová výroba v Cholupickém statku</strong></li></ul>
-
-
-
-<p>Společnost <strong><a href="https://dss-cz.com/">DSS a.s.</a></strong>, výrobce zbraní, zakoupila areál bývalého statku na Cholupickém náměstí a plánuje zde vybudovat <strong>výrobní a skladovací halu</strong>. Tento záměr podle nás zcela <strong>neodpovídá charakteru Cholupic</strong> a přináší významná rizika pro životní prostředí, dopravu i kvalitu života obyvatel.</p>
-
-
-
-<h2>Postoj městské části</h2>
-
-
-
-<p>Starosta <strong>Vojtěch Kos</strong> i většina <a href="https://www.praha12.cz/vismo/dokumenty2.asp?id_org=80112&amp;id=114050">zastupitelů</a> se jednoznačně staví proti záměru. Dne <strong>19. srpna 2025</strong> Rada MČ Praha 12 oficiálně vyjádřila <strong>nesouhlas</strong> s transformací areálu statku na průmyslový areál určený k výrobě a skladování palných zbraní.</p>
-
-
-
-<p><a href="https://www.praha12.cz/assets/File.ashx?id_org=80112&amp;id_dokumenty=114028">Rada zároveň pověřila starostu, aby s investorem jednal o jiném řešení, včetně možnosti <strong>odkupu pozemků</strong>.</a></p>
-
-
-
-<p>Důvody nesouhlasu:</p>
-
-
-
-<ul><li>projekt neodpovídá představě městské části o budoucím využití centra,</li><li>svým rozsahem nekoresponduje s charakterem obce,</li><li>je v rozporu s ochranou <strong>přírodního parku Modřanská rokle – Cholupice</strong>,</li><li>není v souladu s připravovaným <strong>Metropolitním plánem</strong>.</li></ul>
-
-
-
-<p>Záznam ze zastupitelstva ze dne 17.9.2025 můžete shlédnout <a href="https://www.youtube.com/watch?v=q4Zt8uE8AKw&amp;fbclid=IwY2xjawM5EaVleHRuA2FlbQIxMQABHriCQ5kPeRRaclaQAldHV4hQ_lVUWcsqZZ2SLnZ_JQo4xS_oAyGg-bYn6bMI_aem_Ry5pIX81sldPuTJN3jDMdw&amp;themeRefresh=1">zde</a> (čas 22:26:30)</p>
-
-
-
-<h2>Jaké změny plánuje DSS a.s.?</h2>
-
-
-
-<p>Podle předložené dokumentace má projekt probíhat ve třech etapách:</p>
-
-
-
-<ol><li><strong>Demolice většiny objektů</strong> (s výjimkou špejcharu a budov u ulic Podchýšská a K Dýmači).</li><li><strong>Výstavba dvou hal</strong> – výrobní a skladovací, dále parkovacího domu a přestavba špejcharu na administrativní objekt.</li><li><strong>Demolice zbývajících budov</strong> a výstavba bytové části (pouze v případě schválení nového Metropolitního plánu).</li></ol>
-
-
-
-<p>Pro zaměstnance se počítá s parkováním pro <strong>60–80 vozidel</strong>.<br>Společnost plánuje <strong>dvousměnný provoz až se 150 zaměstnanci</strong>.</p>
-
-
-
-<p>Zásobování má probíhat pravidelně <strong>nákladními vozy nad 3,5 tuny</strong>, jejichž <strong>vjezd je do obce v současnosti zakázán</strong>. To by přineslo výrazné zvýšení dopravní zátěže i bezpečnostní rizika pro obyvatele.</p>
-
-
-
-<h2>Veřejná prezentace projektu</h2>
-
-
-
-<p>Dne <strong>15. září 2025</strong> uspořádala společnost DSS veřejné představení svého projektu. Podle zveřejněných plánů má v areálu vzniknout:</p>
-
-
-
-<ul><li><strong>výrobní hala pro kulomety</strong>,</li><li><strong>skladovací hala</strong>,</li><li><strong>parkovací dům</strong>,</li><li><strong>administrativní budova</strong> (v bývalém špejcharu),</li><li><strong>bytový dům</strong>,</li><li><strong>vývojové centrum</strong> v těsné blízkosti.</li></ul>
-
-
-
-<p>Ačkoli investor tvrdí, že půjde pouze o výrobu součástek, nepopírá, že výsledkem bude <strong>kompletní zbraň</strong>. V původním projektu se dokonce počítalo se <strong>zkušebnou zbraní</strong>, která byla veřejnosti překreslena na „vývojové centrum“.</p>
-
-
-
-<p>Dalším problémem je doprava – zásobování má probíhat <strong>nákladními vozy nad 3,5 tuny</strong>, které mají nyní <strong>zákaz vjezdu do obce</strong>. To by znamenalo výrazné zvýšení dopravní zátěže a ohrožení bezpečnosti.</p>
-
-
-
-<div class="wp-block-group"><div class="wp-block-group__inner-container">
-<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="768" height="1024" src="/assets/images/projekt-2-768x1024.jpg" alt="" data-id="844" data-full-url="/wp-content/uploads/2025/09/projekt-2.jpg" data-link="/projekt-2/" class="wp-image-844" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="768" height="1024" src="/assets/images/projekt-3-768x1024.jpg" alt="" data-id="843" data-full-url="/wp-content/uploads/2025/09/projekt-3.jpg" data-link="/projekt-3/" class="wp-image-843" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="768" height="1024" src="/assets/images/projekt-4-768x1024.jpg" alt="" data-id="842" data-full-url="/wp-content/uploads/2025/09/projekt-4.jpg" data-link="/projekt-4/" class="wp-image-842" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="768" height="1024" src="/assets/images/projekt-1-768x1024.jpg" alt="" data-id="845" data-full-url="/wp-content/uploads/2025/09/projekt-1.jpg" data-link="/projekt-1/" class="wp-image-845" /></figure></li></ul></figure>
-</div></div>
-
-
-
-<h2>Nová skutečnost: kulturní památka</h2>
-
-
-
-<p>Celou situaci zásadně mění fakt, že <strong>Ministerstvo kultury</strong> prohlásilo Cholupický statek za <strong>kulturně-historickou památku</strong>. To významně omezuje možnosti přestavby na průmyslový areál.</p>
-
-
-
-<p>Statek může být do budoucna využit k šetrné rekonstrukci – například pro <strong>kulturní, komunitní nebo administrativní účely</strong>, ale rozhodně ne pro průmyslovou výrobu.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="768" src="/assets/images/statek-1-1024x768.jpg" alt="" class="wp-image-841" /></figure>
-
-
-
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="768" height="1024" src="/assets/images/statek-2-768x1024.jpg" alt="" data-id="840" data-full-url="/wp-content/uploads/2025/09/statek-2.jpg" data-link="/statek-2/" class="wp-image-840" /></figure></li></ul></figure>
-
-
-
-<p></p>
-
-
-
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="768" height="1024" src="/assets/images/statek-3-768x1024.jpg" alt="" data-id="839" data-full-url="/wp-content/uploads/2025/09/statek-3.jpg" data-link="/statek-3/" class="wp-image-839" /></figure></li></ul></figure>
-
-
-
-<h2>Co můžete udělat Vy</h2>
-
-
-
-<p>👉 Svůj nesouhlas můžete vyjádřit podpisem <strong><a href="/wp-content/uploads/2025/08/Nahled-Petice.jpeg">Petice proti průmyslové výrobě zbraní v centru Cholupic</a></strong>, která je dostupná na vyžádání v restauraci <strong>U Čámrse</strong>.</p>
-
-
-
-<p>Děkujeme Vám za podporu a zájem o budoucnost naší obce.</p>
-
-
-
-<p>Společně můžeme uchovat <strong>Cholupice jako místo pro klidný a důstojný život, nikoli pro průmyslovou výrobu zbraní.</strong></p>
+<nav class="section-index" aria-label="Na této stránce"><p><strong>Na této stránce</strong></p><ul><li><a href="#zbrojni-prumyslova-vyroba-v-cholupickem-statku">Zbrojní průmyslová výroba v Cholupickém statku</a></li><li><a href="#aktualni-stav">Aktuální stav</a></li><li><a href="#postoj-mestske-casti">Postoj městské části</a></li><li><a href="#jake-zmeny-planuje-dss-a-s">Jaké změny plánuje DSS a.s.?</a></li><li><a href="#verejna-prezentace-projektu">Veřejná prezentace projektu</a></li><li><a href="#nova-skutecnost-kulturni-pamatka">Nová skutečnost: kulturní památka</a></li><li><a href="#pozar-spycharu">Požár špýcharu (červenec 2026)</a></li><li><a href="#dalsi-informace-o-dss-a-kauzy">Další informace o DSS a kauzy</a></li><li><a href="#co-muzete-udelat-vy">Co můžete udělat Vy</a></li></ul></nav>
+<div class="content-sections"><section class="content-card"><h2 id="zbrojni-prumyslova-vyroba-v-cholupickem-statku">Zbrojní průmyslová výroba v Cholupickém statku</h2><p>Společnost <strong><a href="https://dss-cz.com/">DSS a.s.</a></strong>, výrobce zbraní, zakoupila areál bývalého statku na Cholupickém náměstí a plánuje zde vybudovat <strong>výrobní a skladovací halu</strong>. Tento záměr podle nás zcela <strong>neodpovídá charakteru Cholupic</strong> a přináší významná rizika pro životní prostředí, dopravu i kvalitu života obyvatel.</p></section>
+<section class="content-card"><h2 id="aktualni-stav">Aktuální stav</h2><p>Stavební řízení je nyní <strong>přerušeno</strong>, protože společnost DSS nedodala potřebné přílohy, například vyjádření památkářů. Zatím není jasné, jak další vývoj záměru ovlivní <a href="#pozar-spycharu">požár špýcharu</a>, o kterém píšeme níže.</p></section>
+<section class="content-card"><h2 id="postoj-mestske-casti">Postoj městské části</h2><p>Starosta <strong>Vojtěch Kos</strong> i většina <a href="https://www.praha12.cz/vismo/dokumenty2.asp?id_org=80112&amp;id=114050">zastupitelů</a> se jednoznačně staví proti záměru. Dne <strong>19. srpna 2025</strong> Rada MČ Praha 12 oficiálně vyjádřila <strong>nesouhlas</strong> s transformací areálu statku na průmyslový areál určený k výrobě a skladování palných zbraní.</p><p><a href="https://www.praha12.cz/assets/File.ashx?id_org=80112&amp;id_dokumenty=114028">Rada zároveň pověřila starostu, aby s investorem jednal o jiném řešení, včetně možnosti <strong>odkupu pozemků</strong>.</a></p><p>Další důležitý krok přišel dne <strong>21. 7. 2026</strong>. Rada městské části <strong>neschválila</strong> žádost o vydání souhlasu s umístěním inženýrských sítí a dopravního napojení pro akci „Výrobní areál společnosti DSS a.s. – Cholupice“ na pozemcích parc. č. 1, 2, 3, 4 a 5 v k. ú. Cholupice.</p><p>V usnesení je uvedeno, že záměr je v rozporu s usnesením Zastupitelstva MČ Praha 12 ze dne 17. 9. 2025, zejména kvůli narušení charakteru centra Cholupic, ochraně hodnot přírodního parku Modřanská rokle – Cholupice a budoucímu rozvoji území.</p><figure class="media-block"><a class="image-link" href="{{ '/assets/images/dss-usneseni-rady-2026-07-21.png' | relative_url }}" aria-label="Zvětšit obrázek: Usnesení Rady městské části Praha 12 z 21. 7. 2026, které neschvaluje umístění inženýrských sítí a dopravního napojení pro výrobní areál DSS v Cholupicích."><img loading="lazy" width="1009" height="559" src="{{ '/assets/images/optimized/0a6378270615ad66-320.webp' | relative_url }}" alt="Usnesení Rady městské části Praha 12 z 21. 7. 2026, které neschvaluje umístění inženýrských sítí a dopravního napojení pro výrobní areál DSS v Cholupicích." decoding="async" srcset="{{ '/assets/images/optimized/0a6378270615ad66-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/0a6378270615ad66-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure><p>Důvody nesouhlasu:</p><ul><li>projekt neodpovídá představě městské části o budoucím využití centra,</li><li>svým rozsahem nekoresponduje s charakterem obce,</li><li>je v rozporu s ochranou <strong>přírodního parku Modřanská rokle – Cholupice</strong>,</li><li>není v souladu s připravovaným <strong>Metropolitním plánem</strong>.</li></ul><p>Podívejte se na <a href="https://www.youtube.com/watch?v=q4Zt8uE8AKw">záznam zastupitelstva ze dne 17. 9. 2025 na YouTube</a> (čas 22:26:30).</p></section>
+<section class="content-card"><h2 id="jake-zmeny-planuje-dss-a-s">Jaké změny plánuje DSS a.s.?</h2><p>Podle předložené dokumentace má projekt probíhat ve třech etapách:</p><ol><li><strong>Demolice většiny objektů</strong> (s výjimkou špejcharu a budov u ulic Podchýšská a K Dýmači).</li><li><strong>Výstavba dvou hal</strong> – výrobní a skladovací, dále parkovacího domu a přestavba špejcharu na administrativní objekt.</li><li><strong>Demolice zbývajících budov</strong> a výstavba bytové části (pouze v případě schválení nového Metropolitního plánu).</li></ol><p>Pro zaměstnance se počítá s parkováním pro <strong>60–80 vozidel</strong>.<br>Společnost plánuje <strong>dvousměnný provoz až se 150 zaměstnanci</strong>.</p><p>Zásobování má probíhat pravidelně <strong>nákladními vozy nad 3,5 tuny</strong>, jejichž <strong>vjezd je do obce v současnosti zakázán</strong>. To by přineslo výrazné zvýšení dopravní zátěže i bezpečnostní rizika pro obyvatele.</p></section>
+<section class="content-card"><h2 id="verejna-prezentace-projektu">Veřejná prezentace projektu</h2><p>Dne <strong>15. září 2025</strong> uspořádala společnost DSS veřejné představení svého projektu. Podle zveřejněných plánů má v areálu vzniknout:</p><ul><li><strong>výrobní hala pro kulomety</strong>,</li><li><strong>skladovací hala</strong>,</li><li><strong>parkovací dům</strong>,</li><li><strong>administrativní budova</strong> (v bývalém špejcharu),</li><li><strong>bytový dům</strong>,</li><li><strong>vývojové centrum</strong> v těsné blízkosti.</li></ul><p>Ačkoli investor tvrdí, že půjde pouze o výrobu součástek, nepopírá, že výsledkem bude <strong>kompletní zbraň</strong>. V původním projektu se dokonce počítalo se <strong>zkušebnou zbraní</strong>, která byla veřejnosti překreslena na „vývojové centrum“.</p><p>Dalším problémem je doprava – zásobování má probíhat <strong>nákladními vozy nad 3,5 tuny</strong>, které mají nyní <strong>zákaz vjezdu do obce</strong>. To by znamenalo výrazné zvýšení dopravní zátěže a ohrožení bezpečnosti.</p><div class="media-group project-gallery"><div class="media-group__inner">
+<figure class="media-gallery"><ul class="gallery-grid"><li class="gallery-item"><figure><a class="image-link" href="{{ '/assets/images/projekt-2-768x1024.jpg' | relative_url }}" aria-label="Zvětšit obrázek: Prezentace záměru DSS v Cholupickém statku – list 2"><img loading="lazy" width="768" height="1024" src="{{ '/assets/images/optimized/04d64ca07e8c26db-320.webp' | relative_url }}" alt="Prezentace záměru DSS v Cholupickém statku – list 2" decoding="async" srcset="{{ '/assets/images/optimized/04d64ca07e8c26db-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/04d64ca07e8c26db-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure></li><li class="gallery-item"><figure><a class="image-link" href="{{ '/assets/images/projekt-3-768x1024.jpg' | relative_url }}" aria-label="Zvětšit obrázek: Prezentace záměru DSS v Cholupickém statku – list 3"><img loading="lazy" width="768" height="1024" src="{{ '/assets/images/optimized/7ba37fd25b115f8e-320.webp' | relative_url }}" alt="Prezentace záměru DSS v Cholupickém statku – list 3" decoding="async" srcset="{{ '/assets/images/optimized/7ba37fd25b115f8e-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/7ba37fd25b115f8e-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure></li><li class="gallery-item"><figure><a class="image-link" href="{{ '/assets/images/projekt-4-768x1024.jpg' | relative_url }}" aria-label="Zvětšit obrázek: Prezentace záměru DSS v Cholupickém statku – list 4"><img loading="lazy" width="768" height="1024" src="{{ '/assets/images/optimized/f32291a8a38337de-320.webp' | relative_url }}" alt="Prezentace záměru DSS v Cholupickém statku – list 4" decoding="async" srcset="{{ '/assets/images/optimized/f32291a8a38337de-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/f32291a8a38337de-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure></li><li class="gallery-item"><figure><a class="image-link" href="{{ '/assets/images/projekt-1-768x1024.jpg' | relative_url }}" aria-label="Zvětšit obrázek: Prezentace záměru DSS v Cholupickém statku – list 1"><img loading="lazy" width="768" height="1024" src="{{ '/assets/images/optimized/b60d08719db76756-320.webp' | relative_url }}" alt="Prezentace záměru DSS v Cholupickém statku – list 1" decoding="async" srcset="{{ '/assets/images/optimized/b60d08719db76756-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/b60d08719db76756-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure></li></ul></figure>
+</div></div></section>
+<section class="content-card"><h2 id="nova-skutecnost-kulturni-pamatka">Nová skutečnost: kulturní památka</h2><p>Celou situaci zásadně mění fakt, že <strong>Ministerstvo kultury</strong> prohlásilo Cholupický statek za <strong>kulturně-historickou památku</strong>. To významně omezuje možnosti přestavby na průmyslový areál.</p><p>Statek může být do budoucna využit k šetrné rekonstrukci – například pro <strong>kulturní, komunitní nebo administrativní účely</strong>, ale rozhodně ne pro průmyslovou výrobu.</p>
+<div class="heritage-gallery">
+<figure><a class="image-link" href="{{ '/assets/images/statek-1-1024x768.jpg' | relative_url }}" aria-label="Zvětšit obrázek: Exteriér historické budovy Cholupického statku"><img loading="lazy" width="1024" height="768" src="{{ '/assets/images/optimized/b8dd60d1368f5820-320.webp' | relative_url }}" alt="Exteriér historické budovy Cholupického statku" decoding="async" srcset="{{ '/assets/images/optimized/b8dd60d1368f5820-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/b8dd60d1368f5820-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure>
+<figure><a class="image-link" href="{{ '/assets/images/statek-2-768x1024.jpg' | relative_url }}" aria-label="Zvětšit obrázek: Interiér Cholupického statku s dřevěnými trámy a sloupy"><img loading="lazy" width="768" height="1024" src="{{ '/assets/images/optimized/4adecf221e802368-320.webp' | relative_url }}" alt="Interiér Cholupického statku s dřevěnými trámy a sloupy" decoding="async" srcset="{{ '/assets/images/optimized/4adecf221e802368-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/4adecf221e802368-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure>
+<figure><a class="image-link" href="{{ '/assets/images/statek-3-768x1024.jpg' | relative_url }}" aria-label="Zvětšit obrázek: Historický štít a fasáda Cholupického statku"><img loading="lazy" width="768" height="1024" src="{{ '/assets/images/optimized/8e33c25e0e271af7-320.webp' | relative_url }}" alt="Historický štít a fasáda Cholupického statku" decoding="async" srcset="{{ '/assets/images/optimized/8e33c25e0e271af7-320.webp' | relative_url }} 320w, {{ '/assets/images/optimized/8e33c25e0e271af7-640.webp' | relative_url }} 640w" sizes="(max-width: 42rem) calc(100vw - 4rem), 320px"></a></figure>
+</div></section>
+<section class="content-card"><h2 id="pozar-spycharu">Požár špýcharu (červenec 2026)</h2><p>Ve středu <strong>15. července 2026</strong> vypukl v areálu statku rozsáhlý požár, který výrazně poškodil historickou budovu <strong>špýcharu</strong>. Příčina požáru zatím není známa a případ nadále vyšetřují policie a hasiči. Škoda byla vyčíslena na desítky milionů korun.</p><p>Přestože jde o citelnou majetkovou ztrátu, společnost DSS a.s. potvrdila, že se na jejích <strong>plánech na vybudování výrobního areálu nic nemění</strong> a hodlá ve svém záměru pokračovat.</p><p>Více se dočtete v článku Pražského deníku: <a href="https://prazsky.denik.cz/zpravy-region/v-cholupicich-vyhorel-spychar-zdejsi-plany-zbrojovky-dss-to-ale-nemeni/">V Cholupicích vyhořel špýchar, zdejší plány zbrojovky DSS to ale nemění</a>.</p></section>
+<section class="content-card"><h2 id="dalsi-informace-o-dss-a-kauzy">Další informace o DSS a kauzy</h2><p>Výběr článků o společnosti DSS a souvisejících kauzách:</p><ul>
+  <li><a href="https://www.seznamzpravy.cz/clanek/domaci-kauzy-financni-injekce-po-volbach-firma-z-municni-iniciativy-darovala-ods-25-milionu-289647">Firma z muniční iniciativy pro Ukrajinu poslala ODS po volbách 2,5 milionu</a> — Seznam Zprávy</li>
+  <li><a href="https://www.novinky.cz/clanek/domaci-zpravy-liberecky-kraj-elitni-policejni-utvar-odmita-vycvik-na-strelnici-v-ralsku-ochrance-nejmocnejsich-odrazuji-podezrele-okolnosti-40593370">Elitní policejní útvar odmítá výcvik na střelnici v Ralsku. Ochránce nejmocnějších odrazují podezřelé okolnosti</a> — Novinky</li>
+  <li><a href="https://www.seznamzpravy.cz/clanek/domaci-kauzy-prekupnici-prodali-obecni-pozemek-zbrojarum-vydelali-sedm-milionu-311069">Starosta se zbavil pozemku. Získali ho zbrojaři, překupník vydělal miliony</a> — Seznam Zprávy</li>
+</ul></section>
+<section class="content-card"><h2 id="co-muzete-udelat-vy">Co můžete udělat Vy</h2><p>👉 Svůj nesouhlas můžete vyjádřit podpisem <strong><span>Petice proti průmyslové výrobě zbraní v centru Cholupic (původní dokument není dostupný)</span></strong>, která je dostupná na vyžádání v restauraci <strong>U Čámrse</strong>.</p><p>Děkujeme Vám za podporu a zájem o budoucnost naší obce.</p><p>Společně můžeme uchovat <strong>Cholupice jako místo pro klidný a důstojný život, nikoli pro průmyslovou výrobu zbraní.</strong></p></section>
+</div>

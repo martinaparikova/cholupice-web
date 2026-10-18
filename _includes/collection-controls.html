@@ -1,0 +1,15 @@
+<div class="collection-controls" data-collection-controls hidden>
+  <div>
+    <label for="collection-search">Hledat v záznamech</label>
+    <input id="collection-search" type="search" name="q" autocomplete="off" placeholder="Například chodník…" aria-controls="collection-entries">
+  </div>
+  <div>
+    <label for="collection-year">Rok zmíněný v záznamu</label>
+    <select id="collection-year" name="year" aria-controls="collection-entries">
+      <option value="">Všechny roky</option>
+    </select>
+  </div>
+  <button type="button" data-reset>Zrušit filtry</button>
+</div>
+<p class="collection-status" role="status" aria-live="polite"></p>
+<p data-empty hidden>Pro tento výběr jsme nenašli žádné záznamy. Zkuste jiný výraz nebo zrušte filtry.</p>

@@ -22,13 +22,13 @@ const IMAGE_EXT = new Set([".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg"]);
 
 // slug -> { title, order, permalink } mapping, driven by the live site's main menu
 const NAV = [
-  { slug: "domu", wpSlug: "domu", wpId: 19, title: "Domů", permalink: "/" },
+  { slug: "domu", wpSlug: "domu", wpId: 19, title: "O sdružení", permalink: "/" },
   { slug: "cholupicky-zpravodaj", wpId: 616, title: "Cholupický zpravodaj", permalink: "/cholupicky-zpravodaj/" },
   { slug: "v-reseni", wpId: 69, title: "V řešení", permalink: "/v-reseni/" },
   { slug: "cholupicky-statek", wpId: 831, title: "Cholupický statek", permalink: "/cholupicky-statek/" },
   { slug: "ze-zasedani-rady-a-zastupitelstva", wpId: 819, title: "Ze zasedání Rady a Zastupitelstva", permalink: "/ze-zasedani-rady-a-zastupitelstva/" },
   { slug: "dokoncene-cinnosti", wpId: 199, title: "Archiv", permalink: "/archiv/" },
-  { slug: "dokumenty", wpId: 77, title: "Kontakt", permalink: "/kontakt/" },
+  { slug: "kontakt", wpId: 77, title: "Kontakt", permalink: "/kontakt/" },
 ];
 
 const EXTRA_IMAGE_URLS = [
@@ -62,7 +62,7 @@ function targetFolderFor(url) {
 
 function localName(url) {
   const clean = url.split("?")[0];
-  return decodeURIComponent(path.basename(clean));
+  return decodeURIComponent(path.basename(clean)).normalize("NFC");
 }
 
 function absoluteUrl(url) {

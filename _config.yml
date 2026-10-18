@@ -7,8 +7,6 @@ email: sdruzeniprorozvojcholupic@gmail.com
 url: "" # doplňte, pokud web poběží na vlastní doméně, např. "https://www.zitcholupice.cz"
 baseurl: "" # ponechte prázdné, pokud web poběží na vlastní doméně nebo na https://<uzivatel>.github.io
 
-header_image: /assets/images/cropped-Ebibms7WAAIFx1A-2.jpeg
-
 markdown: kramdown
 kramdown:
   input: GFM

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280">
+  <defs>
+    <g id="oak">
+      <path fill="#dfeccf" d="M0 0C-2-4-4-8-6-12C-20-8-30-16-22-24C-12-26-8-27-7-29C-24-30-36-42-26-50C-16-50-10-46-7-46C-22-54-28-68-16-74C-8-72-6-66-5-63C-14-72-12-88-4-90C-1-94 0-100 0-102C0-100 1-94 4-90C12-88 14-72 5-63C6-66 8-72 16-74C28-68 22-54 7-46C10-46 16-50 26-50C36-42 24-30 7-29C8-27 12-26 22-24C30-16 20-8 6-12C4-8 2-4 0 0Z"/>
+      <path fill="none" stroke="#173d2b" stroke-opacity=".45" stroke-width="1.5" stroke-linecap="round" d="M0 0V-92M0-22L-15-24M0-22L15-24M0-40L-19-46M0-40L19-46M0-58L-12-68M0-58L12-68"/>
+      <path fill="none" stroke="#dfeccf" stroke-width="2.4" stroke-linecap="round" d="M0 0V10"/>
+    </g>
+    <g id="acorn" fill="#dfeccf">
+      <path d="M-9 2C-9 15-5 23 0 27C5 23 9 15 9 2Z"/>
+      <path d="M-12 3C-13-7 13-7 12 3Z"/>
+      <path d="M0-4V-11" stroke="#dfeccf" stroke-width="2.4" stroke-linecap="round"/>
+    </g>
+  </defs>
+  <use href="#oak" transform="translate(72 236) rotate(-28)"/>
+  <use href="#oak" transform="translate(110 244) rotate(18) scale(.72)"/>
+  <use href="#acorn" transform="translate(150 226) rotate(18)"/>
+  <use href="#oak" transform="translate(200 120) rotate(62) scale(.8)"/>
+  <use href="#oak" transform="translate(316 70) rotate(160) scale(.85)"/>
+  <use href="#acorn" transform="translate(250 40) rotate(-25) scale(.9)"/>
+  <use href="#oak" transform="translate(380 220) rotate(-12) scale(.72)"/>
+  <use href="#oak" transform="translate(110 90) rotate(-118) scale(.6)"/>
+  <use href="#acorn" transform="translate(300 200) rotate(40) scale(.8)"/>
+</svg>

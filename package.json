@@ -1,0 +1,14 @@
+{
+  "name": "cholupice-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare-content": "node scripts/prepare-content.mjs",
+    "test": "node --test scripts/*.test.mjs",
+    "check:site": "node scripts/check-site.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "1.2.0",
+    "sharp": "0.35.5"
+  }
+}

@@ -1,27 +1,42 @@
-<header class="hero{% if page.url != '/' %} hero--compact{% endif %}">
-  <div class="hero__media" style="background-image: url('{{ site.header_image | relative_url }}');"></div>
-  <div class="hero__scrim"></div>
-  <div class="trail-stripe trail-stripe--top"></div>
-
-  <div class="hero__inner">
-    <p class="hero__eyebrow">Žít Cholupice</p>
-    <a class="hero__title" href="{{ '/' | relative_url }}">
-      <h1>{{ site.title }}</h1>
-    </a>
+<header class="site-header">
+  <div class="site-header__inner">
+    <div class="site-header__masthead">
+      <a class="site-header__brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
+        <img src="{{ '/assets/images/logo-cholupice.png' | relative_url }}" alt="" width="742" height="455">
+      </a>
+    </div>
 
     <nav class="nav" aria-label="Hlavní navigace">
       <ul class="nav__list">
         {% for item in site.data.nav.nav %}
+        {% if item.children %}
+        {% assign section_active = false %}
+        {% for child in item.children %}{% if page.url == child.url %}{% assign section_active = true %}{% endif %}{% endfor %}
+        <li>
+          <details class="nav__group">
+          <summary class="nav__toggle{% if section_active %} is-active{% endif %}">{{ item.title }}</summary>
+          <ul class="nav__submenu">
+            {% for child in item.children %}
+            <li>
+              <a href="{{ child.url | relative_url }}"
+                 {% if page.url == child.url %}aria-current="page" class="is-active"{% endif %}>
+                {{ child.title }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          </details>
+        </li>
+        {% else %}
         <li>
           <a href="{{ item.url | relative_url }}"
              {% if page.url == item.url %}aria-current="page" class="is-active"{% endif %}>
             {{ item.title }}
           </a>
         </li>
+        {% endif %}
         {% endfor %}
       </ul>
     </nav>
   </div>
-
-  <div class="trail-stripe"></div>
 </header>
