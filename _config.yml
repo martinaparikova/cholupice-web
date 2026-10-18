@@ -4,7 +4,7 @@ description: >-
   Jednáme s obcí, radnicí, vlastníky pozemků a hledáme řešení aktuálních problémů.
 lang: cs
 email: sdruzeniprorozvojcholupic@gmail.com
-url: "" # doplňte, pokud web poběží na vlastní doméně, např. "https://www.zitcholupice.cz"
+url: "https://zitcholupice.cz"
 baseurl: "" # ponechte prázdné, pokud web poběží na vlastní doméně nebo na https://<uzivatel>.github.io
 
 markdown: kramdown
