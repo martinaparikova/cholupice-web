@@ -10,6 +10,21 @@ wide: true
 <div data-collection=""><p class="collection-intro">Zprávy a oznámení od 1. ledna 2024, od nejnovějších. U dlouhodobých projektů zachováváme také původní plány; datum v textu nemusí znamenat datum dokončení.</p>{% include collection-controls.html %}
 <div class="updates collection-entries" id="collection-entries">
   <article class="update-card" data-entry="" data-years="2026">
+    <h2 id="ustavujici-zasedani-zastupitelstva-prahy-12-2026-11-18" class="entry-heading"><a href="#ustavujici-zasedani-zastupitelstva-prahy-12-2026-11-18">Ustavující zasedání Zastupitelstva MČ Praha 12</a></h2>
+    <p>1. ustavující zasedání Zastupitelstva městské části Praha 12 se koná ve středu 18. listopadu 2026 od 17:00 v sále v přízemí Úřadu městské části Praha 12, Generála Šišky 2375/6, Praha 4–Modřany. Zasedání je veřejné. <a href="https://www.praha12.cz/pozvanka-na-1-ustavujici-zasedani-zastupitelstva-mestske-casti-praha-12/d-121748" target="_blank" rel="noopener">Zobrazit pozvánku na webu MČ Praha 12</a>.</p>
+  </article>
+
+  <article class="update-card" data-entry="" data-years="2026">
+    <h2 id="uredni-deska-razicka-2026-11-10" class="entry-heading"><a href="#uredni-deska-razicka-2026-11-10">Úřední deska: omezení provozu v Ražické</a></h2>
+    <p>Dne 10. listopadu 2026 bylo na úřední desce MČ Praha 12 zveřejněno opatření k přechodné úpravě provozu v ulici Ražická. <a href="{{ '/z-uredni-desky/#oop-razicka-2026-11-10' | relative_url }}">Zobrazit záznam a archivované přílohy</a>.</p>
+  </article>
+
+  <article class="update-card" data-entry="" data-years="2026">
+    <h2 id="uredni-deska-cyklostezka-2026-11-05" class="entry-heading"><a href="#uredni-deska-cyklostezka-2026-11-05">Úřední deska: cyklostezka Cholupice–Dolní Břežany</a></h2>
+    <p>Dne 5. listopadu 2026 bylo zveřejněno oznámení k II. etapě cyklostezky mezi Cholupicemi a Dolními Břežany. <a href="{{ '/z-uredni-desky/#cyklostezka-cholupice-dolni-brezany-2026-11-05' | relative_url }}">Zobrazit záznam a archivovanou přílohu</a>.</p>
+  </article>
+
+  <article class="update-card" data-entry="" data-years="2026">
     <h2 id="bytovy-dum-razicka" class="entry-heading"><a href="#bytovy-dum-razicka">Bytový dům Ražická</a></h2>
     <p>V ulici Ražická se připravuje výstavba bytového domu o 16 bytových jednotkách. <a href="{{ '/bytovy-dum-razicka/' | relative_url }}">Více informací zde</a>.</p>
   </article>

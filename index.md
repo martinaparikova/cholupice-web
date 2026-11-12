@@ -24,11 +24,11 @@ nav_order: 1
   <section class="home-about__work" aria-labelledby="work-heading">
     <div>
       <p class="eyebrow">Co děláme</p>
-      <h2 id="work-heading">Nasloucháme.<br>Ptáme se. Hledáme řešení.</h2>
+      <h2 id="work-heading">Jsme v kontaktu<br>a hledáme, co pomůže.</h2>
     </div>
     <div>
-      <p>Mluvíme se sousedy, radnicí Prahy 12 i vlastníky pozemků. Řešíme konkrétní podněty a hledáme cesty, jak posunout věci dál.</p>
-      <p>Sledujeme také jednání rady a zastupitelstva a sdílíme informace, aby se každý mohl zorientovat v tom, co se v Cholupicích chystá.</p>
+      <p>Bavíme se se sousedy, radnicí Prahy 12 i vlastníky pozemků. Když se objeví něco, co by stálo za zlepšení, zkoušíme společně najít cestu, jak věci posunout dál.</p>
+      <p>Zajímá nás také, co se řeší na radnici. Ze zasedání rady a zastupitelstva vybíráme důležité informace a sdílíme je přehledně, aby bylo jasné, co se v Cholupicích chystá.</p>
       <a href="{{ '/ze-zasedani-rady-a-zastupitelstva/' | relative_url }}">Zprávy z rady a zastupitelstva <span aria-hidden="true">→</span></a>
     </div>
   </section>
@@ -48,7 +48,7 @@ nav_order: 1
     </div>
     <div>
       <p>Cholupice leží na jižním okraji Prahy a patří do městské části Praha 12. Dříve samostatná obec se v roce 1974 spolu s Točnou připojila k hlavnímu městu. Západně od Cholupic najdete sportovní letiště Točná.</p>
-      <p>První písemná zmínka o Cholupicích pochází z roku 1300, kdy ves patřila pražským měšťanům. Roku 1328 se poprvé uvádí zdejší tvrz, která později zpustla. Od konce 16. století byly Cholupice součástí panství Dolní Břežany a cholupický dvůr patřil až do roku 1945 pražskému arcibiskupství. Z té doby se dochoval mohutný kamenný špejchar, nejstarší památka obce.</p>
+      <p>První písemná zmínka o Cholupicích pochází z roku 1300, kdy ves patřila pražským měšťanům. Roku 1328 se poprvé uvádí zdejší tvrz, která později zpustla. Od konce 16. století byly Cholupice součástí panství Dolní Břežany a cholupický dvůr patřil až do roku 1945 pražskému arcibiskupství. Nejstarší památkou obce je mohutný kamenný špejchar, který se dochoval dodnes.</p>
       <p>Místní život tvoří i spolky a společné tradice. Působí tu dobrovolní hasiči, TJ Sokol, rybáři i další sdružení. K oblíbeným událostem patří staročeské máje s krojovaným průvodem a programem v cholupickém parku.</p>
       <p class="home-about__source">Stručně podle <a href="https://cs.wikipedia.org/wiki/Cholupice">Wikipedie</a> a <a href="https://www.praha12.cz/cholupice/d-3018">webu Prahy 12 – více o historii Cholupic</a>.</p>
     </div>

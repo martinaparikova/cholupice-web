@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "prepare-content": "node scripts/prepare-content.mjs",
+    "update:notice-board": "node scripts/update-notice-board.mjs",
     "test": "node --test scripts/*.test.mjs",
     "check:site": "node scripts/check-site.mjs"
   },

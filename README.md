@@ -22,10 +22,12 @@ GitHub Pages stránky automaticky sestaví a publikuje při každém `push` do v
 ├── kulturni-dum/index.md          # Klíčová témata › Kulturní dům
 ├── ostatni/index.md               # Klíčová témata › Ostatní
 ├── ze-zasedani-rady-a-zastupitelstva/index.md
+├── z-uredni-desky/index.md     # archiv vybraných oznámení z úřední desky Praha 12
 ├── dokoncene-cinnosti/index.md   # stránka „Archiv“
 ├── kontakt/index.md               # stránka „Kontakt“ (kontaktní formulář, členství)
 ├── scripts/migrate-from-wordpress.mjs   # jednorázový/opakovatelný import z WordPressu
-└── scripts/update-meetings.mjs          # doplňování jednání Rady/Zastupitelstva z praha12.cz
+├── scripts/update-meetings.mjs          # doplňování jednání Rady/Zastupitelstva z praha12.cz
+└── scripts/update-notice-board.mjs      # archiv vybraných oznámení a příloh z úřední desky Praha 12
 ```
 
 Každá stránka je `.md` soubor s "front matterem" (text mezi `---`) nahoře:
@@ -180,6 +182,31 @@ Pro doplnění odkazů i ke starším záznamům spusťte
 Skript přiřazuje dokumenty podle typu jednání, data a jednoznačné shody názvu.
 Texty zachová; nejednoznačné nebo odlišně pojmenované body nechá bez odkazu.
 Neprohledává obsah PDF a zveřejnění na živém webu vyžaduje obvyklou publikaci změn.
+
+## Archiv úřední desky Praha 12
+
+Stránka „Z úřední desky“ obsahuje neoficiální výběr oznámení MČ Praha 12, která
+se zjevně týkají Cholupic. Skript čte oficiální [otevřená data úřední desky](https://www.praha12.cz/opendata-uredni-deska)
+ve formátu JSON-LD a spolu se záznamem uloží místní kopie všech příloh, které zdroj uvádí.
+Původní záznam Praha 12 zůstává u každé položky odkazovaný jako rozhodující zdroj.
+
+Nejprve vždy zkontrolujte náhled bez zápisu:
+
+```
+npm run update:notice-board -- --dry-run
+```
+
+Pokud jsou nalezené položky správné, proveďte archivaci:
+
+```
+npm run update:notice-board
+```
+
+Skript vybírá názvy s výrazy „Cholupic…“ a vybranými místními názvy (například
+Ražická, K Dýmači, Podchýšská, Kestřanská nebo Mokřadní). Nezařazuje položky pouze
+podle obecné zmínky Praha 12 nebo Modřany. Nové karty přidává na začátek stránky,
+ukládá přílohy do `assets/files/uredni-deska/<rok>/` a již archivované položky znovu
+nepřidává. Před publikací spusťte `npm test`, `jekyll build` a `npm run check:site`.
 
 ## Publikace na GitHub Pages
 
