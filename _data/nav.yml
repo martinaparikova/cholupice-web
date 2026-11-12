@@ -9,6 +9,8 @@ nav:
         url: "/cholupicky-statek/"
       - title: "Kulturní dům"
         url: "/kulturni-dum/"
+      - title: "Bytový dům Ražická"
+        url: "/bytovy-dum-razicka/"
       - title: "Ostatní"
         url: "/ostatni/"
   - title: "Rada a zastupitelstvo"

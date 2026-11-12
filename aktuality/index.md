@@ -10,6 +10,11 @@ wide: true
 <div data-collection=""><p class="collection-intro">Zprávy a oznámení od 1. ledna 2024, od nejnovějších. U dlouhodobých projektů zachováváme také původní plány; datum v textu nemusí znamenat datum dokončení.</p>{% include collection-controls.html %}
 <div class="updates collection-entries" id="collection-entries">
   <article class="update-card" data-entry="" data-years="2026">
+    <h2 id="bytovy-dum-razicka" class="entry-heading"><a href="#bytovy-dum-razicka">Bytový dům Ražická</a></h2>
+    <p>V ulici Ražická se připravuje výstavba bytového domu o 16 bytových jednotkách. <a href="{{ '/bytovy-dum-razicka/' | relative_url }}">Více informací zde</a>.</p>
+  </article>
+
+  <article class="update-card" data-entry="" data-years="2026">
     <h2 id="komunalni-volby-2026-v-cholupicich" class="entry-heading"><a href="#komunalni-volby-2026-v-cholupicich">Komunální volby 2026 v Cholupicích</a></h2>
     <p>Ve dnech 9. a 10. října 2026 proběhly komunální volby. V Cholupicích byla rekordní volební účast 56,5 %. Kandidátní listiny získaly tyto výsledky:</p>
     <ul>
